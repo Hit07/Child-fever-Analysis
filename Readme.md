@@ -55,4 +55,4 @@ The analysis provides strong evidence supporting Dr. Semmelweis's hypothesis tha
 * Seaborn Documentation
 * Scipy Stats Documentation
 
-$$Special Credits: @Dr.Angela&nsbp;Yu$$
+$$ \text{Special Credits: } @\text{Dr. Angela Yu} $$
