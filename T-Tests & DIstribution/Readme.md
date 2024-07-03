@@ -11,7 +11,7 @@ The key columns in the dataset include:
 - `date`: The date of the record.
 - `births`: The number of births in the clinic.
 - `deaths`: The number of deaths in the clinic.
-- `clinic`: The name of the clinic.
+- `clinic`: The name of tgithe clinic.
 
 ## Methodology
 
